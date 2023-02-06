@@ -85,6 +85,7 @@ export default {
   height: 300px;
   background-color: #c7d1db;
   margin-left: 110px;
+  font-weight: bold;
 }
 .txtInfo {
   text-align: left;

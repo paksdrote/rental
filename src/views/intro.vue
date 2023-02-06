@@ -4,6 +4,7 @@
             <p class="enter">Enter</p>
         </router-link>
         <center>
+            <p class="title">Rental House</p>
             <p class="qoute">Your Home Your Choice</p>
         </center>
         
@@ -21,18 +22,26 @@
       right: 0px;
       top: 0px;
   }
-.qoute {
+.title {
     position: absolute;
     width: 720px;
     height: 65px;
     left: 450px;
     top: 100px;
-
-
-
     font-weight: 700;
     font-size: 48px;
 
+    text-align: center;
+    color: #640C0C;
+
+}
+.qoute {
+    position: absolute;
+    width: 720px;
+    height: 65px;
+    left: 450px;
+    top: 200px;
+    font-size: 48px;
     text-align: center;
     color: #640C0C;
 }
